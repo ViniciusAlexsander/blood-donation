@@ -1,0 +1,28 @@
+{
+  "name": "DOE",
+  "version": "1.0.0",
+  "description": "Aplicação desenvolvida durante a MaratonaDev 3.0",
+  "main": "scripts.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusAlexsander/DOE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusAlexsander/DOE/issues"
+  },
+  "homepage": "https://github.com/ViniciusAlexsander/DOE#readme"
+}
